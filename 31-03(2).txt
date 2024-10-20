@@ -1,0 +1,41 @@
+Internal computing process:
+------------------------------
+python code--->Ram------>CPU
+lets say 10 and 20 adding we are doing then menory blocks will be created
+control unit will send signals to memory bocks to go to ALU and its telling to do addition 
+for ALU and result will store in menory box(registor) and it will send to ram and again it will send to shell
+
+Data Buss will transfer the data from ram to CPU and CPU to Ram 32 bit and 64 bit is the size
+data Buss width--->32/64 bit
+if clock speed is more the data will trasfer using Control unit to memory spaces
+
+clock speed --> no of signals will genrate per second eg:2.4GHz
+
+1.Basic data types
+2.Data Collections
+Maps
+vectors
+3.Advanced Data Structers
+1.Arrays
+2.Stacks
+3.Queues
+4.Linkedlists
+5.Single and Double Linkedlists
+6.Trees
+7.Graphs
+
+Compailers:
+program is converted directly to Binary language and send it to CPU.
+code->Syntictical parser-> Sementical Parser->linker->intermidate code genterator
+->optimazation->Assembly code converter->Binary code
+
+we will get an executeable file
+
+Interpriter:
+code->Syntictical parser-> Sementical Parser->linker->intermidate code genterator
+->optimazation->Assembly code converter->Binary code
+
+
+
+
+
